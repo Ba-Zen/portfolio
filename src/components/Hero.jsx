@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "@emotion/styled"
 import { keyframes } from "@emotion/core"
-import LocationIcon from "../images/icons/map-marker-smile-solid.svg"
+import LocationIcon from "../images/icons/map-marker-alt-solid.svg"
 
 const Hero = () => (
   <LandingWrapper>
